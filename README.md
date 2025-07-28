@@ -11,7 +11,7 @@ A simple Python script that visualizes CPU, RAM, and Disk usage in real-time usi
 
 ## Preview
 
-![Usage Monitor Screenshot](screenshot.png)
+![Usage Monitor Screenshot](IMG_OO75.png)
 
 ## Requirements
 
