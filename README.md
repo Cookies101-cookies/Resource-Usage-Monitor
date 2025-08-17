@@ -23,7 +23,7 @@ A simple Python script that visualizes CPU, RAM, and Disk usage in real-time usi
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/cookies101-cookies/resource-usage-monitor.git cd resource-usage-monitor
+   git clone https://github.com/Cookies101-cookies/Resource-Usage-Monitor.git cd resource-usage-monitor
 
 2. Run the script
    ```bash
